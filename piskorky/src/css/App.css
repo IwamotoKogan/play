@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+table, th, td {
+ border: 1px solid black;
+}
+td{width:100px;
+height:100px;
+}
+.TableCell{
+  height: 100%;
+  width:100%;
+  background-color:green;
+  font-size:40px;
+  text-align: center;
+  line-height: 100px;
+}
+
