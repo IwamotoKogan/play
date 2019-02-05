@@ -1,2 +1,2 @@
 # play
-learning git
+Tic tac toe Game
